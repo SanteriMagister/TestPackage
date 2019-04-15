@@ -45,6 +45,10 @@
     "tslint": "~5.9.1",
     "typescript": "~2.7.2"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SanteriMagister/TestPackage.git"
+  },
   "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.",
   "main": "index.js",
   "author": "",
